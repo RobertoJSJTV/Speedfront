@@ -37,6 +37,7 @@ body {
     font-size: 28px;
     font-weight: bold;
     text-transform: capitalize;
+    margin: 15px 12px
 }
 .title-primary {
     color: #fff;
@@ -81,6 +82,7 @@ body {
     background-color: #58af9b;
     border: 1px solid #58af9b;
     transition: background-color .5s;
+    margin-left: 15px;
 }
 .btn-second:hover {
     background-color: #fff;
@@ -159,7 +161,7 @@ input:focus:invalid{
 }
 
 .label-input {
-    background-color: #ecf0f1;
+    background-color: #fff;
     display: flex;
     align-items: center;
     margin: 8px;
